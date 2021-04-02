@@ -29,7 +29,7 @@ class App extends Component {
 
     return (
       <div className='App'>
-        <h1>Kitty Rolodex</h1>
+        <h1>Kitty Catalog</h1>
 
         <SearchBox
           placeholder='Keress a macskák között'
